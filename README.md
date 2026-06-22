@@ -38,9 +38,9 @@ Construir una herramienta de análisis para apoyar decisiones de mantenimiento, 
 
 ## Capturas
 
-<img width="1215" height="670" alt="image" src="https://github.com/user-attachments/assets/401c38cd-f7b8-461c-b2d3-d1288f6f1985" />
-<img width="1221" height="661" alt="image" src="https://github.com/user-attachments/assets/a961956e-1377-4b23-8093-b9c19eaf808f" />
-<img width="1225" height="662" alt="image" src="https://github.com/user-attachments/assets/9e1f280b-821b-4743-83fc-585efc85659e" />
-<img width="1222" height="663" alt="image" src="https://github.com/user-attachments/assets/376a69b2-5a94-4013-bde1-269b01f58221" />
-<img width="1222" height="797" alt="image" src="https://github.com/user-attachments/assets/6610bc97-6c9e-4be9-8608-b0642149b741" />
+<img width="802" height="462" alt="image" src="https://github.com/user-attachments/assets/77f665b7-6beb-4a82-b639-f2159983a064" />
+<img width="815" height="466" alt="image" src="https://github.com/user-attachments/assets/c0da90c2-66d6-44f4-b8a8-b1d5aea0fdb1" />
+<img width="812" height="465" alt="image" src="https://github.com/user-attachments/assets/1a9fdfeb-d474-4b17-a670-2aae53935ec6" />
+<img width="811" height="466" alt="image" src="https://github.com/user-attachments/assets/f599e8f9-6943-483c-a8c6-9dd2ba434471" />
+<img width="812" height="462" alt="image" src="https://github.com/user-attachments/assets/eb7adeff-eaf3-4e25-878c-f0ece650bfdc" />
 
