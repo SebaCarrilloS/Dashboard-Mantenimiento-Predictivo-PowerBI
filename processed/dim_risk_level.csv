@@ -1,0 +1,5 @@
+﻿risk_level,risk_order,risk_description,recommended_action
+Bajo,1,Activo con vida remanente suficiente y sin acción inmediata.,Monitoreo normal
+Medio,2,Activo requiere seguimiento preventivo.,Seguimiento preventivo
+Alto,3,Activo requiere programación de mantenimiento.,Programar mantención
+Crítico,4,Activo requiere intervención prioritaria.,Intervención prioritaria
