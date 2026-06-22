@@ -1,4 +1,6 @@
-<img width="1222" height="663" alt="image" src="https://github.com/user-attachments/assets/2d37ce85-27a8-415c-bcc2-f457506ddce0" /># Dashboard de Mantenimiento Predictivo y Gestión de Activos
+<img width="1222" height="663" alt="image" src="https://github.com/user-attachments/assets/2d37ce85-27a8-415c-bcc2-f457506ddce0" />
+
+# Dashboard de Mantenimiento Predictivo y Gestión de Activos
 
 Dashboard desarrollado en Power BI para monitorear condición, riesgo, vida útil remanente y priorización de activos físicos.
 
